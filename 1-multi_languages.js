@@ -1,2 +1,1 @@
-const myVar = "C is fun\nPython is cool\nJavaScript is amazing\n";
-console.log(myVar);
+console.log("C is fun\nPython is cool\nJavaScript is amazing\n");
